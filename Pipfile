@@ -15,6 +15,7 @@ sklearn = "*"
 papermill = "*"
 ibm-cloud-sdk-core = "*"
 ibm-watson = "*"
+flair = "*"
 
 [requires]
 python_version = "3.6"
