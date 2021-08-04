@@ -1,6 +1,6 @@
 # Automated Argo workflows
 
-If you'd like to automate your Jupyter notebooks using Argo, please use these kustomize manifests. If you follow the steps bellow, your application is fully set and ready to be deployed via Argo CD.
+If you'd like to automate your Jupyter notebooks using Argo, please use these kustomize manifests. If you follow the steps below, your application is fully set and ready to be deployed via Argo CD.
 
 For a detailed guide on how to adjust your notebooks etc, please consult [documentation](https://github.com/aicoe-aiops/data-science-workflows/blob/master/Automating%20via%20Argo.md)
 
