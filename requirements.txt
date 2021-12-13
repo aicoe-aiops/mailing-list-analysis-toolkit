@@ -1,0 +1,9 @@
+boto3
+flair
+ibm-cloud-sdk-core
+ibm-watson
+pandas
+papermill
+python-dotenv
+sklearn
+wget
